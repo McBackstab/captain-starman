@@ -3,7 +3,7 @@
   "short_name": "Starman",
   "description": "Entdecke das Universum mit Captain Starman!",
   "start_url": "/",
-  "display": "standalone",
+  "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#060812",
   "theme_color": "#060812",
